@@ -5,7 +5,7 @@
 
 **Objetivo:** Construir um mini sistema financeiro com fluxo de caixa.
 
-## Tecnologias Usadas:
+## :desktop_computer: Tecnologias Usadas:
 * HTML5
 * CSS3
 * JavaScript
