@@ -30,7 +30,7 @@ $ npm run init-bd
 
 ## :hammer: Como Utilizar:
 
-Inicie o servidor para poder utilizar a aplicão.
+Inicie o servidor para poder utilizar a aplicacão.
 ``` 
 $ npm start
 ``` 
