@@ -1,9 +1,11 @@
 # jobs-calc
  **Exercício da Maratona Dicover - Edição 02 - Rocketseat**
 
-**Demo Online:** [jobs-calc](https://github.com/Rafae1Menezes)
+## :earth_americas: Demo Online:    
+Acesse: [jobs-calc](https://github.com/Rafae1Menezes)
 
-**Objetivo:** Construir um mini sistema financeiro com fluxo de caixa.
+## Objetivo: 
+Construir um mini sistema financeiro com fluxo de caixa.
 
 ## :desktop_computer: Tecnologias Usadas:
 * HTML5
@@ -35,11 +37,10 @@ $ npm start
 
 Agora a aplicação está funcionando pelo servidor local na porta 3000.
 
-## Acesse pelo navegador:
-:earth_americas: [htp://localhost:3000/](htp://localhost:3000/)
+## :earth_americas: Acesse pelo navegador:
+[htp://localhost:3000/](htp://localhost:3000/)
 
-<br>
-
+## :camera: Screenshot:
 
 ![screenshot_dashboard](./public/images/screenshot_dashboard.jpg) *Dashboard*
 
