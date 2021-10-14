@@ -4,7 +4,7 @@
 ## :earth_americas: Demo Online:    
 Acesse: [jobs-calc](https://github.com/Rafae1Menezes)
 
-## Objetivo: 
+## :memo: Objetivo: 
 Construir um mini sistema financeiro com fluxo de caixa.
 
 ## :desktop_computer: Tecnologias Usadas:
@@ -37,8 +37,7 @@ $ npm start
 
 Agora a aplicação está funcionando pelo servidor local na porta 3000.
 
-## :earth_americas: Acesse pelo navegador:
-[htp://localhost:3000/](htp://localhost:3000/)
+**Acesse pelo navegador:** [htp://localhost:3000/](htp://localhost:3000/)
 
 ## :camera: Screenshot:
 
