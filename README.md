@@ -31,7 +31,9 @@ Agora a aplicação está funcionando pelo servidor local na porta 3000.
 
 **Acesse pelo navegador:** [htp://localhost:3000/](htp://localhost:3000/)
 
-
+Dashboard:
 ![screenshot_dashboard](./public/images/screenshot_dashboard.jpg)
+Ediação de um Job:
 ![screenshot_job](./public/images/screenshot_job.jpg)
+Perfil: 
 ![screenshot_profile](./public/images/screenshot_profile.jpg)
