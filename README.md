@@ -5,7 +5,7 @@
 
 **Objetivo:** Construir um mini sistema financeiro com fluxo de caixa.
 
-**Tecnologias Usadas:**
+## Tecnologias Usadas:
 * HTML5
 * CSS3
 * JavaScript
@@ -14,26 +14,35 @@
 * Express
 * SQLite
 
-**Como Instalar:**
+## :package: Como Instalar: 
 
 Inicie o npm para que os modulos utilizados sejam baixados para o projeto.
-$ npm init
+``` 
+$ npm init 
+```
 
 Crie o banco de dados e insira alguns dados demonstrativos
+``` 
 $ npm run init-bd
+``` 
 
-**Como Utilizar:**
+## :hammer: Como Utilizar:
 
 Inicie o servidor para poder utilizar a aplicão.
+``` 
 $ npm start
+``` 
 
 Agora a aplicação está funcionando pelo servidor local na porta 3000.
 
-**Acesse pelo navegador:** [htp://localhost:3000/](htp://localhost:3000/)
+## Acesse pelo navegador:
+:earth_americas: [htp://localhost:3000/](htp://localhost:3000/)
 
-Dashboard:
-![screenshot_dashboard](./public/images/screenshot_dashboard.jpg)
-Ediação de um Job:
-![screenshot_job](./public/images/screenshot_job.jpg)
-Perfil: 
-![screenshot_profile](./public/images/screenshot_profile.jpg)
+<br>
+
+
+![screenshot_dashboard](./public/images/screenshot_dashboard.jpg) *Dashboard*
+
+![screenshot_job](./public/images/screenshot_job.jpg) *Ediação de Job*
+
+![screenshot_profile](./public/images/screenshot_profile.jpg) *Perfil*
