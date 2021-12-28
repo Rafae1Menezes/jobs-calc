@@ -37,7 +37,7 @@ $ npm start
 
 Agora a aplicação está funcionando pelo servidor local na porta 3000.
 
-**Acesse pelo navegador:** [htp://localhost:3000/](http://localhost:3000/)
+**Acesse pelo navegador:** [http://localhost:3000/](http://localhost:3000/)
 
 ## :camera: Screenshot:
 
