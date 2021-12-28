@@ -1,9 +1,6 @@
 # jobs-calc
  **Exercício da Maratona Dicover - Edição 02 - Rocketseat**
 
-## :earth_americas: Demo Online:    
-Acesse: [jobs-calc](https://github.com/Rafae1Menezes)
-
 ## :memo: Objetivo: 
 Construir um mini sistema financeiro com fluxo de caixa.
 
